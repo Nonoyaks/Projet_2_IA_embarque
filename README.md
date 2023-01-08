@@ -13,3 +13,6 @@ L'ordre des mots est le suivant :
 
 Le fichier .ino à utiliser est le fichier nano_ble33_sense_microphone_continuous_modified.ino
 et non pas nano_ble33_sense_microphone_continuous.ino qui est le fichier généré par Edge Impulse et qui ne répond pas encore à toutes les demandes.
+
+
+Le modèle Classifier proposé par Edge Impulse a été utilisé plutôt que le modèle Classifier (Keras) proposé par BrainChip car ce dernier donnait de très mauvaises performances comme en témoigne les deux images présentes dans sur le GitHub.
