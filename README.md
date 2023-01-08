@@ -9,3 +9,7 @@ L'ordre des mots est le suivant :
 - noise : RED
 - "resistance" : RED + GREEN
 - "transistor" : RED + BLUE
+
+
+Le fichier .ino à utiliser est le fichier nano_ble33_sense_microphone_continuous_modified.ino
+et non pas nano_ble33_sense_microphone_continuous.ino qui est le fichier généré par Edge Impulse et qui ne répond pas encore à toutes les demandes.
